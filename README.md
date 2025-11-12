@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Tenho **16 anos** e sou aluno do **IFSP (Técnico em Informática Integrado)**. Estou em **contínuo estudo**, atualmente focado no desenvolvimento **Front-End**, onde busco excelência na criação de interfaces intuitivas e responsivas. Aberto a desafios e colaborações para construir soluções inovadoras.</p>
+<p align="left">Tenho 16 anos e sou aluno do IFSP (Técnico em Informática Integrado). Estou em contínuo estudo, atualmente focado no desenvolvimento Front-End, onde busco excelência na criação de interfaces intuitivas e responsivas. Aberto a desafios e colaborações para construir soluções inovadoras.</p>
 
 ###
 
