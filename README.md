@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">Estatísticas</h2>
+<h2 align="left">📊 Estatísticas</h2>
 
 ###
 
