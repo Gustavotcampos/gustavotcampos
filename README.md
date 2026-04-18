@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="left">Desenvolvedor Front-End</h4>
+<h4 align="left">Desenvolvedor Fullstack</h4>
 
 ###
 
